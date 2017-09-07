@@ -12,4 +12,4 @@ This program is developed in VS 2012 and, to compile it correctly, the library p
 
 Sorry for the possible inconvenience of comments in Chinese. If there is any question, feel free to contact me by e-mail.
 My address:
-648194212@qq.com or 213131603@seu.edu.cn
+648194212@qq.com or xh2332@columbia.edu
